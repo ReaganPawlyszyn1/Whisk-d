@@ -14,12 +14,16 @@ While working on this app throughout the past few months, I came up with a list 
    *set up a value system with the graphics, create a mouse class, create background with proper z values*
 
 2. Create randomized lists
+
     *randomize the mouse position on the screen, randomize the mouse sprite that spawns, randomize the cat paw sprite used to catch mice*
     
 3. Create a point system with the mice
+
     *give mice actual point values and add to the overall score when mouse is tapped*
     
 ## Where I am now
-After finishing the items on the list above, I was finally able to sumbit my app for review at the App Store. Below are some elements of my app being put up for review
+After finishing the items on the list above, I was finally able to sumbit my app for review at the App Store. Below are some elements of my app being put up for review.
+
+
 
 
