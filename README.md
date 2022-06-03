@@ -22,8 +22,12 @@ While working on this app throughout the past few months, I came up with a list 
     *give mice actual point values and add to the overall score when mouse is tapped*
     
 ## Where I am now
-After finishing the items on the list above, I was finally able to sumbit my app for review at the App Store. Below are some elements of my app being put up for review.
+After finishing the items on the list above, I was finally able to sumbit my app for review at the App Store. Below are some elements of my app being put up for review. I went through 6 total builds to get where I am today, and each allowed for a ton of learning and growth in my ablities as a designer and a coder. 
 
+
+https://github.com/ReaganPawlyszyn1/Whisk-d/tree/main/app%20store%20connect%20page 
+
+Above is a folder containing my submissions to the app store that feature and tease my app's use. It was super fun designing these, and I went for a very busy, detailed look using Canva. 
 
 
 
