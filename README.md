@@ -24,10 +24,7 @@ While working on this app throughout the past few months, I came up with a list 
 ## Where I am now
 After finishing the items on the list above, I was finally able to sumbit my app for review at the App Store. Below are some elements of my app being put up for review. I went through 6 total builds to get where I am today, and each allowed for a ton of learning and growth in my ablities as a designer and a coder. 
 
-
-https://github.com/ReaganPawlyszyn1/Whisk-d/tree/main/app%20store%20connect%20page 
-
-Above is a folder containing my submissions to the app store that feature and tease my app's use. It was super fun designing these, and I went for a very busy, detailed look using Canva. 
+Above the repository are folders containing all of my graphics, including my apple store connect page submissions. I am very proud of the graphics in my game, and have spent a ton of time working on them, so I am happy with how they look! I plan to add even more sprites and graphics to the game after the beta gets some reviews in the app store. 
 
 
 
